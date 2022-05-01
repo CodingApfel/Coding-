@@ -1,1 +1,2 @@
-Just a liddle selfmade Portfolia website ... It´s not finished 
+Just a liddle selfmade Portfolia website ... 
+the website is still in progress
